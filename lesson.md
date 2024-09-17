@@ -1,0 +1,5 @@
+- Learned how to initialize a Git repository
+- Learned how to create and add content to a file
+- Learned how to stage files with Git
+- Learned how to commit changes with Git
+- Learned how to link a local repository to GitHub
